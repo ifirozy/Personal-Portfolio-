@@ -1,0 +1,113 @@
+.parallax {
+    /* The image used */
+    background:url(https://bpaservices.com/wp-content/uploads/revslider/home-main/slide-dark.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+  .parallax2 {
+    /* The image used */
+    background:url(https://community-home-assistant-assets.s3.dualstack.us-west-2.amazonaws.com/original/3X/d/e/dea8c60d19e758c8744437e7b91b73c10ad0e030.jpeg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+  .parallax3 {
+    /* The image used */
+    background:url(  https://static.vecteezy.com/system/resources/previews/000/582/542/non_2x/vector-abstract-template-black-frame-layout-metallic-red-light-on-dark-background-modern-luxury-futuristic-technology-concept.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+  .parallax4 {
+    /* The image used */
+    background:url(http://papers.co/wallpaper/papers.co-ab56-wallpaper-grunge-paper-texture-35-3840x2160-4k-wallpaper.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .parallax5 {
+    /* The image used */
+    background:url(  https://steamuserimages-a.akamaihd.net/ugc/47602044631304660/0FAF119F540971193CF6DA1B66531582442EB261/);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+  .parallax6 {
+    /* The image used */
+
+  background:url(https://wallpapersdesigns.com/wp-content/uploads/2018/10/Download-wallpaper-4k-abstract-waves-creative-dark-background-material-desig.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+
+
+
+  .parallax7 {
+    /* The image used */
+
+    background:url( https://ak3.picdn.net/shutterstock/videos/30935533/thumb/1.jpg);
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
